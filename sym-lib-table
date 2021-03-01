@@ -301,6 +301,12 @@
     (options "") 
     (descr "")) 
   (lib 
+    (name ad9238) 
+    (type Legacy) 
+    (uri "${KIPRJMOD}/lib/ic/interface/ad9238.lib") 
+    (options "") 
+    (descr "")) 
+  (lib 
     (name ad9744) 
     (type Legacy) 
     (uri "${KIPRJMOD}/lib/ic/interface/ad9744.lib") 

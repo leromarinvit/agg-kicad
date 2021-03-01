@@ -1,0 +1,5 @@
+EESchema-DOCLIB  Version 2.0
+$CMP AD9238
+D 12bit 65MSPS dual ADC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9238.pdf
+$ENDCMP
